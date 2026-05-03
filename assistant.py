@@ -10,7 +10,7 @@ import docx
 
 # --- Configuration ---
 # TODO: Replace with your actual Gemini API Key
-GEMINI_API_KEY = "AIzaSyA98MyyMHeLJf0bnbaeYdX5bo6KjTyGbD8"
+GEMINI_API_KEY = "paste your key here!"
 
 # --- Address Book ---
 # Add your contacts here (name: phone number with country code)
